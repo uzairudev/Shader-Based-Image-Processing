@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.glsl": "c"
+    },
+    "liveServer.settings.port": 5501
+}
