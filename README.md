@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates the creation of color filtered anaglyph images using various image processing techniques. Utilizing Three.js, the project features an interactive 3D environment where users can manipulate stereoscopic videos and apply different anaglyph methods. The implementation includes convolution, separable filters, denoising, and edge processing to enhance the visual experience.
+This project demonstrates the creation of color filtered anaglyph images using various image processing techniques. Utilizing Three.js, the project features an interactive 3D environment where users can manipulate stereoscopic videos and apply different anaglyph methods. The implementation includes convolution, separable filters, denoising to enhance the visual experience.
 
 ## Features
 
