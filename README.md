@@ -149,18 +149,4 @@ void main() {
 - [YouTube Video 1](https://www.youtube.com/watch?v=fs_Uw4qL2O8)
 - [YouTube Video 2](https://www.youtube.com/watch?v=_FgCK6CdR8s)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any bugs or enhancements.
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize this README further based on your specific needs and preferences.
