@@ -49,13 +49,15 @@ This project demonstrates the creation of color filtered anaglyph images using v
 
 ### Setting Up the Environment
 
-- **Initialize the Scene**: Set up the Three.js scene, camera, and renderer.
-- **Load and Control Videos**: Use the interface to load stereoscopic videos from sources like [YouTube video 1](https://www.youtube.com/watch?v=fs_Uw4qL2O8) and [YouTube video 2](https://www.youtube.com/watch?v=_FgCK6CdR8s).
-- **Apply Anaglyph Methods**: Experiment with different anaglyph methods to create 3D images.
-- **Use Image Processing Techniques**: Utilize shaders for convolution, separable filters, denoising, and edge processing.
+1. **Initialize the Scene**: The Three.js scene, camera, and renderer are set up in the `sanfrancisco.js` file. You don't need to manually initialize them; it's done automatically when you open the project in your browser.
 
-### Example Code
+2. **Load and Control Videos**: The interface allows you to load stereoscopic videos from sources like [YouTube video 1](https://www.youtube.com/watch?v=fs_Uw4qL2O8) and [YouTube video 2](https://www.youtube.com/watch?v=_FgCK6CdR8s).
 
+    - **Pause/Start/Stop**: Use the provided GUI controls to manage video playback.
+
+3. **Zoom and Pan**: The environment allows you to zoom in/out and pan inside the right image and the processed anaglyph using mouse controls or GUI sliders.
+
+4. **Switch Between Image Processing Methods**: The GUI includes options to switch between different image processing methods and adjust their parameters in real-time.
 **Vertex Shader**:
 ```glsl
 varying vec2 vUv;
