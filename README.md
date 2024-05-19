@@ -30,8 +30,8 @@ This project demonstrates the creation of color filtered anaglyph images using v
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/color-filtered-anaglyph.git
-    cd color-filtered-anaglyph
+    git clone https://github.com/uzairudev/Shader-Based-Image-Processing.git
+    cd Shader-Based-Image-Processing
     ```
 
 2. Install dependencies and start a local web server:
