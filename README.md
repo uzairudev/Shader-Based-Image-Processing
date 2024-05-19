@@ -51,7 +51,7 @@ This project demonstrates the creation of color filtered anaglyph images using v
 
 1. **Initialize the Scene**: The Three.js scene, camera, and renderer are set up in the `sanfrancisco.js` file. You don't need to manually initialize them; it's done automatically when you open the project in your browser.
 
-2. **Load and Control Videos**: The interface allows you to load stereoscopic videos from sources like [YouTube video 1](https://www.youtube.com/watch?v=fs_Uw4qL2O8) and [YouTube video 2](https://www.youtube.com/watch?v=_FgCK6CdR8s).
+2. **Load and Control Videos**: The interface allows you to load stereoscopic videos from sources like [YouTube video ](https://www.youtube.com/watch?v=fs_Uw4qL2O8)
 
     - **Pause/Start/Stop**: Use the provided GUI controls to manage video playback.
 
